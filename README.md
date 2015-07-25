@@ -46,3 +46,24 @@ Creation and maintenance for entire websites (Design+CSS/xHTML/Javascript), hots
 _May 2003 - July 2004_
 
 Here i have the first contact with internet technology. Creation and maintenance for entire websites (Design+CSS/xHTML/Javascript), hotsites, banners, flash animations, and some development in ASP and PHP.
+
+## Certificates
+
+[_Microsoft_](www.microsoft.com.br) - **Programming in HTML5 with JavaScript and CSS3 Specialist**
+License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVUvINimbjBtQmdrOUlqNU0/edit?usp=sharing)
+
+[_Caelum_](www.caelum.com.br) - **Front End Development using Javascript and Jquery** 
+
+[_Caelum_](www.caelum.com.br) - **Web Development using HTML, CSS, and Javascript** [_Caelum_]
+
+## Aditional Courses
+
+- Advanced Javascript
+- Jquery Basic
+- Jquery Advanced
+- Windows 8 App Day
+- Programming in HTML5 with JavaScript and CSS3
+- Regular Expressions Essential Training
+- Adobe After Effects Basic
+- Adobe Premiere Pro Basic
+- PHP Fundamentals
