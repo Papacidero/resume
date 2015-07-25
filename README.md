@@ -67,3 +67,7 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 - Adobe After Effects Basic
 - Adobe Premiere Pro Basic
 - PHP Fundamentals
+
+## Competencies
+
+HTML 5, JavaScript, jQuery, HTML, CSS3, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, JSON, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, JSF, Grunt, SQL, Bash, Terminal, OOP Javascript, 
