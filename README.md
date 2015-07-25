@@ -70,4 +70,15 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 ## Competencies
 
-HTML 5, JavaScript, jQuery, HTML, CSS3, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, JSON, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, JSF, Grunt, SQL, Bash, Terminal, OOP Javascript, 
+HTML 5, JavaScript, jQuery, HTML, CSS3, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, JSON, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, JSF, Grunt, SQL, Bash, Terminal, OOP Javascript
+
+## Academic Formation
+
+#### Bachelor Degree, Computer Graphics, Design @ Paulista University - 2010
+
+## Contacts
+
+- [papacidero@gmail.com](mailto:papacidero@gmail.com)
+- [papacidero.com](www.papacidero.com)
+- [LinkedIn](www.linkedin/in/papacidero)
+- [Facebook](www.facebook.com/papacidero)
