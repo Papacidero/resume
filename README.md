@@ -35,7 +35,7 @@ Creation of Layout for WebSites, hotsites, banners, flash animations.
 ### Web Designer @ [Stock|Ad](http://www.stockad.com.br/)
 _September 2006 - May 2007_
 
-Creation of Layout and XHTML, CSS, Javascript for WebSites, hotsites, banners, flash animations.
+Creation of Layout and XHTML, CSS, Javascript for Websites, hotsites, banners, flash animations.
 
 ### Web Designer, Developer @ Zenite
 _January 2006 - September 2006_
@@ -54,7 +54,13 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 [_Caelum_](www.caelum.com.br) - **Front End Development using Javascript and Jquery** 
 
-[_Caelum_](www.caelum.com.br) - **Web Development using HTML, CSS, and Javascript** [_Caelum_]
+[_Caelum_](www.caelum.com.br) - **Web Development using HTML, CSS, and Javascript**
+
+[_Code School_](www.codeschool.com) - **Shaping up with Angular.js**
+
+[_Lynda.com_](www.lynda.com) - **Up and Running with AngularJS 1**
+
+[_Lynda.com_](www.lynda.com) - **Up and Running with Bitcoin**
 
 ## Aditional Courses
 
