@@ -70,7 +70,7 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 ## Competencies
 
-HTML 5, JavaScript, jQuery, HTML, CSS3, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, JSON, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, JSF, Grunt, Gulp, SQL, Bash, Terminal, OOP Javascript, Coffescript
+HTML 5, JavaScript, jQuery, HTML, CSS3, EmberJS, AngularJS, JSF, Grunt, Gulp, SQL, Bash, Terminal, OOP Javascript, Coffescript, JSON, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, 
 
 ## Academic Formation
 
