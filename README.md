@@ -62,6 +62,8 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 [_Lynda.com_](www.lynda.com) - **Up and Running with Bitcoin**
 
+[_Lynda.com_](www.lynda.com) - **Up and Running with ECMAScript 6**
+
 ## Aditional Courses
 
 - Programming in HTML5 with JavaScript and CSS3
