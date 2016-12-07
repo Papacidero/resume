@@ -9,7 +9,7 @@ Some Specialties: HTML5, Javascript, CSS3 (Less/Sass), Jquery, Ajax, Json, Usabi
 ### Front End Developer @ [Venturus](http://www.venturus.org.br)
 _August 2014 - In Activity_
 
-Front End Development (HTML, CSS (Less, Sass)), Javascript, Jquery (plugins, custom codes), interface between back-end and front-end, usability and accessibility on web applications, photoshop and others.
+Front End Development (HTML, CSS (Less, Sass)), Javascript Vanilla, Javascript Frameworks (Ember, Angular, React), Jquery (plugins, custom codes), interface between back-end and front-end, usability and accessibility on web applications, photoshop and others.
 
 ### User Interface Designer & Developer @ [Von Braun Labs](http:www.vonbraunlabs.com)
 _October 2012 - July 2014_
@@ -82,7 +82,7 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 ## Competencies
 
-HTML 5, JavaScript, jQuery, HTML, CSS3, EmberJS, AngularJS, JSF, Grunt, Gulp, SQL, Bash, Terminal, OOP Javascript, Coffescript, JSON, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, 
+HTML 5, JavaScript, jQuery, HTML, CSS3, EmberJS, React, AngularJS, JSF, Grunt, Gulp, SQL, Bash, Terminal, OOP Javascript, Coffescript, JSON, User Interface, Usability, PHP, AJAX, Adobe Creative Suite, Agile Methodologies, Drupal, HTML, ActionScript, Scrum, ASP, Mobile Applications, Flash Animation, WordPress, Logo Design, Video Edition, Git, Less, Video Effects, After Effects, 
 
 ## Academic Formation
 
