@@ -58,11 +58,15 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 [_Code School_](www.codeschool.com) - **Shaping up with Angular.js**
 
+[_Lynda.com_](www.lynda.com) - **Learn React.js: The Basics**
+
 [_Lynda.com_](www.lynda.com) - **Up and Running with AngularJS 1**
 
 [_Lynda.com_](www.lynda.com) - **Up and Running with Bitcoin**
 
 [_Lynda.com_](www.lynda.com) - **Up and Running with ECMAScript 6**
+
+[_Lynda.com_](www.lynda.com) - **MEAN Stack and MongoDB Development Techniques**
 
 ## Aditional Courses
 
