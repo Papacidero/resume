@@ -2,14 +2,14 @@
 
 **Front End Developer**, also with great background in UX and a good knowledge in back-end process and operation, always applying the latest thechnologies available, using the most powerful tools to reach goals.
 
-Some Specialties: HTML5, Javascript, CSS3 (Less/Sass), Jquery, Ajax, Json, Usability, Mobile, SEO, Terminal
+Some Specialties: HTML5, Javascript, EcmaScript 6, JS Frameworks (Ember, React, Angular), CSS3 and Pre-processors, Jquery, Ajax, Json, Usability, Mobile, SEO, Terminal
 
 ## Previous experiences
 
 ### Front End Developer @ [Venturus](http://www.venturus.org.br)
 _August 2014 - In Activity_
 
-Front End Development (HTML, CSS (Less, Sass)), Javascript Vanilla, Javascript Frameworks (Ember, Angular, React), Jquery (plugins, custom codes), interface between back-end and front-end, usability and accessibility on web applications, photoshop and others.
+Front End Development (HTML, CSS and Pre-processors), Javascript Vanilla, Javascript Frameworks (Ember, Angular, React), Jquery (plugins, custom codes), interface between back-end and front-end, usability and accessibility on web applications, photoshop and others.
 
 ### User Interface Designer & Developer @ [Von Braun Labs](http:www.vonbraunlabs.com)
 _October 2012 - July 2014_
