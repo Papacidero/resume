@@ -91,6 +91,6 @@ HTML 5, JavaScript, jQuery, HTML, CSS3, EmberJS, React, AngularJS, JSF, Grunt, G
 ## Contacts
 
 - [papacidero@gmail.com](mailto:papacidero@gmail.com)
-- [papacidero.com](www.papacidero.com)
-- [LinkedIn](www.linkedin/in/papacidero)
-- [Facebook](www.facebook.com/papacidero)
+- [papacidero.com](http://www.papacidero.com)
+- [LinkedIn](http://www.linkedin/in/papacidero)
+- [Facebook](http://www.facebook.com/papacidero)
