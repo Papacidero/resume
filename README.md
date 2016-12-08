@@ -70,6 +70,7 @@ License: E208-2400 - [Certificate Link](https://drive.google.com/file/d/0B-_LpVU
 
 ## Aditional Courses
 
+- A/B Testing for Web Designers
 - Programming in HTML5 with JavaScript and CSS3
 - Advanced Javascript
 - Jquery Basic
