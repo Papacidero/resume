@@ -2,12 +2,15 @@
 
 **Front End Developer**, also with great background in UX and a good knowledge in back-end process and operation, always applying the latest thechnologies available, using the most powerful tools to reach goals.
 
-Some Specialties: HTML5, Javascript, EcmaScript 6, JS Frameworks (Ember, React, Angular), CSS3 and Pre-processors, Jquery, Ajax, Json, Usability, Mobile, SEO, Terminal
+Some Specialties: HTML5, Javascript, EcmaScript 6, JS Frameworks (Ember, React, Angular), CSS3 and Pre-processors, Jquery, Ajax, Json, Usability, Mobile, SEO, Terminal, Pipelines
 
 ## Previous experiences
 
+### Front End Developer @ [Ingenico - Netherlands](https://ingenico.nl/payments?gclid=Cj0KCQjwuNbsBRC-ARIsAAzITudLEexIkFXu14mACtUI_lSlEJIpirOraSnm5gU-7ifyfJgqDTAmDbgaAkjNEALw_wcB)
+_May 2019 - In Activity_
+
 ### Front End Developer @ [Venturus](http://www.venturus.org.br)
-_August 2014 - In Activity_
+_August 2014 - April 2019_
 
 Front End Development (HTML, CSS and Pre-processors), Javascript Vanilla, Javascript Frameworks (Ember, Angular, React), Jquery (plugins, custom codes), interface between back-end and front-end, usability and accessibility on web applications, photoshop and others.
 
